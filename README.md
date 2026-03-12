@@ -2,7 +2,7 @@
 
 You can open and run this project directly in Google Colab:
 
-[Open in Colab](PASTE_YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 # Adversarially Robust Deep Learning
 
