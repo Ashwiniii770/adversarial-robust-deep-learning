@@ -1,3 +1,9 @@
+## Run in Google Colab
+
+You can open and run this project directly in Google Colab:
+
+[Open in Colab](PASTE_YOUR_COLAB_LINK_HERE)
+
 # Adversarially Robust Deep Learning
 
 This project explores adversarial robustness in deep learning models.
