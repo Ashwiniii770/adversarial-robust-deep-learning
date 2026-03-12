@@ -1,6 +1,6 @@
 # Adversarially Robust Deep Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](your_colab_link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 This project explores adversarial robustness in deep learning models.
 # Adversarially Robust Deep Learning
